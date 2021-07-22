@@ -65,7 +65,7 @@
 <a href = "https://www.linkedin.com/in/nirajkharel/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/nirajkharel7"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/niraj_kharel/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/niraj.kharel.9"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+<a href = "https://www.facebook.com/niroj.kharel.9/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 
 </p>
 
