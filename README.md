@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **thenirajkharel@gmail.com**
 
-- ⚡ Fun fact **Nice Joke**
+- ⚡ Fun fact **404 Error Not found**
 
 ## 🚀 Languages and Tools:
 
