@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/nirajkharel/nirajkharel/main/niraj.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Niraj</h1>
-<h3 align="center">Penetration Tester and sometimes a Programmer</h3>
+<h3 align="center">Certified Ethical Hacker</h3>
 
 
 ## 🙋‍♂️ About Me
