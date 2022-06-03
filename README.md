@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[CryptoGen Nepal](https://cryptogennepal.com/)**
+- 🔭 Offensive Security Team Lead @ **[CryptoGen Nepal](https://cryptogennepal.com/)**
 
-- 🌱 I’m currently learning **Web and Android Pentest.**
+- 🌱 I’m currently performing **Web, Mobile and Network Pentest.**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://nirajkharel.com.np)**
 
