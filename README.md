@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Penetration Tester*
+- 🔭 **Penetration Tester**
 
 - 🌱 I’m currently performing **Web, Mobile and Network Pentest.**
 
