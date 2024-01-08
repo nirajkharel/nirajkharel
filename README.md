@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/nirajkharel/nirajkharel/main/niraj.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Niraj</h1>
-<h3 align="center">Penetration Tester</h3>
+<h3 align="center">Penetration Tester | CRTO | CRTP </h3>
 
 ![](https://komarev.com/ghpvc/?username=nirajkharel)
 
